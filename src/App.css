@@ -1,0 +1,11 @@
+body {
+  background-image: url('jj.avif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.card {
+  height: 500px;
+  border-radius: 10px;
+  background-color: rgba(66, 55, 68, 0.452);
+}
